@@ -55,7 +55,7 @@ Follow these steps to set up the project locally:
    ```env
    PORT=5000
    MONGO_URI=<your-mongodb-connection-string>
-   API_KEY=<your-unsplash-api-key>
+   API_KEY=<your-api-key>
    ```
 
 4. **Start the Application:**
@@ -112,10 +112,7 @@ Contributions are welcome! To contribute:
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Acknowledgments
 
-- Thanks to [Unsplash](https://unsplash.com/) for providing high-quality images.
-- Inspired by the passion for visually stunning wallpapers.
 
 ## Contact
 
