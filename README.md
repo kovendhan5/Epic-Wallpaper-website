@@ -11,6 +11,11 @@ Epic Wallpaper Website is a modern and visually appealing platform for discoveri
 - **Favorites:** Mark wallpapers as favorites for quick access later.
 - **User-Friendly UI:** Clean and modern design with easy navigation.
 
+## Demo
+
+[![Website Preview](https://wallpaperaccess.com/full/1245679.jpg)](https://jovial-frangollo-778daa.netlify.app/)
+
+
 ## Technologies Used
 
 - **Frontend:**
